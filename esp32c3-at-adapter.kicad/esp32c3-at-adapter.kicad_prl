@@ -63,8 +63,8 @@
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ffdffff_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "esp32c3-at-adapter.kicad_prl",
